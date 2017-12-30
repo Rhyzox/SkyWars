@@ -1,0 +1,8 @@
+name: SkyWars
+author: Rhyzox
+main: me.rhyzox.skywars.Manager
+version: 1.0
+
+commands:
+  start:
+  setspawn:
